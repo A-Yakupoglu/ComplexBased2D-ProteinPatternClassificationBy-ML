@@ -6,7 +6,7 @@ In this study, we propose a novel complex-based approach for 2D representation o
 # THE STUDY PROCEEDS IN THE FOLLOWING STEPS:
 ## STEP 1 (DATA IMPORT):
 Amino acid sequences of kinase and GPCR proteins are imported separately in fasta form from the NCBI gene bank using accession numbers.
-Datasets of protein/amino acid sequences are available on GitHub at [29] (at https://github.com/A-Yakupoglu/ComplexVsRealANNProteinClassifyGit).
+Datasets of protein/amino acid sequences are available on GitHub at [29] (at https://github.com/A-Yakupoglu/ComplexVsRealANNProteinClassify ).
 ## STEP 2 (DATA PREPROCESSING):
 The amino acid sequences of kinase and GPCR proteins are labeled as “1” and “0”, randomly shuffled and saved as a single data frame in fasta form.
 ## STEP 3 (COMPLEX CODING):
